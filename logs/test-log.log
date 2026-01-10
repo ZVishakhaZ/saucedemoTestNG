@@ -1,0 +1,718 @@
+2025-12-27 19:53:38 INFO  Log:11 - Launching Application
+2025-12-27 19:53:38 INFO  Log:11 - Entered Details
+2025-12-27 19:53:43 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-27 19:53:43 INFO  Log:11 - Added product to cart
+2025-12-27 19:53:43 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-27 19:53:43 INFO  Log:11 - On Cart Page
+2025-12-27 19:53:43 INFO  Log:11 - Correct Products are added in the cart
+2025-12-27 19:53:43 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-27 19:53:43 INFO  Log:11 - Information is Added
+2025-12-27 19:53:43 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-27 19:53:43 INFO  Log:11 - On Overview Page
+2025-12-27 19:53:43 INFO  Log:11 - Finished adding Details
+2025-12-27 19:53:43 INFO  Log:11 - Testcase successful
+2025-12-27 19:57:18 INFO  Log:11 - Launching Application
+2025-12-27 19:57:19 INFO  Log:11 - Entered Details
+2025-12-27 19:57:24 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-27 19:57:24 INFO  Log:11 - Added product to cart
+2025-12-27 19:57:24 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-27 19:57:24 INFO  Log:11 - On Cart Page
+2025-12-27 19:57:24 INFO  Log:11 - Correct Products are added in the cart
+2025-12-27 19:57:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-27 19:57:24 INFO  Log:11 - Information is Added
+2025-12-27 19:57:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-27 19:57:24 INFO  Log:11 - On Overview Page
+2025-12-27 19:57:24 INFO  Log:11 - Finished adding Details
+2025-12-27 19:57:24 INFO  Log:11 - Testcase successful
+2025-12-27 19:57:51 INFO  Log:11 - Launching Application
+2025-12-27 19:57:51 INFO  Log:11 - Entered Details
+2025-12-27 19:57:56 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 19:57:58 INFO  Log:11 - Launching Application
+2025-12-27 19:57:59 INFO  Log:11 - Entered Details
+2025-12-27 19:58:04 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 19:58:06 INFO  Log:11 - Launching Application
+2025-12-27 19:58:06 INFO  Log:11 - Entered Details
+2025-12-27 19:58:11 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:06:44 INFO  Log:11 - Launching Application
+2025-12-27 20:06:44 INFO  Log:11 - Entered Details
+2025-12-27 20:06:49 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:06:51 INFO  Log:11 - Launching Application
+2025-12-27 20:06:52 INFO  Log:11 - Entered Details
+2025-12-27 20:06:57 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:06:59 INFO  Log:11 - Launching Application
+2025-12-27 20:06:59 INFO  Log:11 - Entered Details
+2025-12-27 20:07:04 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:09:51 INFO  Log:11 - Launching Application
+2025-12-27 20:09:52 INFO  Log:11 - Entered Details
+2025-12-27 20:09:57 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-27 20:09:57 INFO  Log:11 - Added product to cart
+2025-12-27 20:09:57 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-27 20:09:57 INFO  Log:11 - On Cart Page
+2025-12-27 20:09:57 INFO  Log:11 - Correct Products are added in the cart
+2025-12-27 20:09:57 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-27 20:09:57 INFO  Log:11 - Information is Added
+2025-12-27 20:09:57 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-27 20:09:57 INFO  Log:11 - On Overview Page
+2025-12-27 20:09:57 INFO  Log:11 - Finished adding Details
+2025-12-27 20:09:57 INFO  Log:11 - Testcase successful
+2025-12-27 20:15:14 INFO  Log:11 - Launching Application
+2025-12-27 20:15:14 INFO  Log:11 - Entered Details
+2025-12-27 20:15:19 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-27 20:15:19 INFO  Log:11 - Added product to cart
+2025-12-27 20:15:19 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-27 20:15:19 INFO  Log:11 - On Cart Page
+2025-12-27 20:15:19 INFO  Log:11 - Correct Products are added in the cart
+2025-12-27 20:15:20 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-27 20:15:20 INFO  Log:11 - Information is Added
+2025-12-27 20:15:20 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-27 20:15:20 INFO  Log:11 - On Overview Page
+2025-12-27 20:15:20 INFO  Log:11 - Finished adding Details
+2025-12-27 20:15:20 INFO  Log:11 - Testcase successful
+2025-12-27 20:21:41 INFO  Log:11 - Launching Application
+2025-12-27 20:21:41 INFO  Log:11 - Entered Details
+2025-12-27 20:21:46 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:21:49 INFO  Log:11 - Launching Application
+2025-12-27 20:21:49 INFO  Log:11 - Entered Details
+2025-12-27 20:21:54 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:24:51 INFO  Log:11 - Launching Application
+2025-12-27 20:24:52 INFO  Log:11 - Entered Details
+2025-12-27 20:24:57 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:24:59 INFO  Log:11 - Launching Application
+2025-12-27 20:24:59 INFO  Log:11 - Entered Details
+2025-12-27 20:25:04 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:30:01 INFO  Log:11 - Launching Application
+2025-12-27 20:30:01 INFO  Log:11 - Entered Details
+2025-12-27 20:30:06 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-27 20:30:09 INFO  Log:11 - Launching Application
+2025-12-27 20:30:09 INFO  Log:11 - Entered Details
+2025-12-27 20:30:14 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-28 11:30:49 INFO  Log:11 - Launching Application
+2025-12-28 11:30:49 INFO  Log:11 - Entered Details
+2025-12-28 11:30:54 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-28 11:30:57 INFO  Log:11 - Launching Application
+2025-12-28 11:30:57 INFO  Log:11 - Entered Details
+2025-12-28 11:31:02 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-28 11:31:44 INFO  Log:11 - Launching Application
+2025-12-28 11:31:44 INFO  Log:11 - Entered Details
+2025-12-28 11:31:49 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 11:31:49 INFO  Log:11 - Added product to cart
+2025-12-28 11:31:49 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 11:31:49 INFO  Log:11 - On Cart Page
+2025-12-28 11:31:49 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 11:31:49 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 11:31:50 INFO  Log:11 - Information is Added
+2025-12-28 11:31:50 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 11:31:50 INFO  Log:11 - On Overview Page
+2025-12-28 11:31:50 INFO  Log:11 - Finished adding Details
+2025-12-28 11:31:50 INFO  Log:11 - Testcase successful
+2025-12-28 11:34:28 INFO  Log:11 - Launching Application
+2025-12-28 11:34:28 INFO  Log:11 - Entered Details
+2025-12-28 11:34:33 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-28 11:34:36 INFO  Log:11 - Launching Application
+2025-12-28 11:34:36 INFO  Log:11 - Entered Details
+2025-12-28 11:34:41 INFO  Log:11 - https://www.saucedemo.com/
+2025-12-28 12:14:14 INFO  Log:11 - Launching Application
+2025-12-28 12:14:14 INFO  Log:11 - Entered Details
+2025-12-28 12:14:19 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:14:19 INFO  Log:11 - Added product to cart
+2025-12-28 12:14:19 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:14:19 INFO  Log:11 - On Cart Page
+2025-12-28 12:14:19 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:14:19 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:14:20 INFO  Log:11 - Information is Added
+2025-12-28 12:14:20 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 12:14:20 INFO  Log:11 - On Overview Page
+2025-12-28 12:14:20 INFO  Log:11 - Finished adding Details
+2025-12-28 12:14:20 INFO  Log:11 - Testcase successful
+2025-12-28 12:14:22 INFO  Log:11 - Launching Application
+2025-12-28 12:14:23 INFO  Log:11 - Entered Details
+2025-12-28 12:14:28 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:14:28 INFO  Log:11 - Added product to cart
+2025-12-28 12:14:28 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:14:28 INFO  Log:11 - On Cart Page
+2025-12-28 12:14:28 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:14:28 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:14:28 INFO  Log:11 - Information is Added
+2025-12-28 12:14:31 INFO  Log:11 - Launching Application
+2025-12-28 12:14:31 INFO  Log:11 - Entered Details
+2025-12-28 12:14:36 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:14:36 INFO  Log:11 - Added product to cart
+2025-12-28 12:14:36 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:14:36 INFO  Log:11 - On Cart Page
+2025-12-28 12:14:36 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:14:36 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:14:37 INFO  Log:11 - Information is Added
+2025-12-28 12:16:27 INFO  Log:11 - Launching Application
+2025-12-28 12:16:28 INFO  Log:11 - Entered Details
+2025-12-28 12:16:33 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:16:33 INFO  Log:11 - Added product to cart
+2025-12-28 12:16:33 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:16:33 INFO  Log:11 - On Cart Page
+2025-12-28 12:16:33 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:16:33 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:16:33 INFO  Log:11 - Information is Added
+2025-12-28 12:16:33 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 12:16:33 INFO  Log:11 - On Overview Page
+2025-12-28 12:16:33 INFO  Log:11 - Finished adding Details
+2025-12-28 12:16:33 INFO  Log:11 - Testcase successful
+2025-12-28 12:16:36 INFO  Log:11 - Launching Application
+2025-12-28 12:16:36 INFO  Log:11 - Entered Details
+2025-12-28 12:16:41 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:16:41 INFO  Log:11 - Added product to cart
+2025-12-28 12:16:41 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:16:41 INFO  Log:11 - On Cart Page
+2025-12-28 12:16:41 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:16:41 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:16:42 INFO  Log:11 - Information is Added
+2025-12-28 12:16:42 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 12:16:42 INFO  Log:11 - On Overview Page
+2025-12-28 12:16:42 INFO  Log:11 - Finished adding Details
+2025-12-28 12:16:42 INFO  Log:11 - Testcase successful
+2025-12-28 12:18:55 INFO  Log:11 - Launching Application
+2025-12-28 12:18:56 INFO  Log:11 - Entered Details
+2025-12-28 12:19:01 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:19:01 INFO  Log:11 - Added product to cart
+2025-12-28 12:19:01 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:19:01 INFO  Log:11 - On Cart Page
+2025-12-28 12:19:01 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:19:01 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:19:01 INFO  Log:11 - Information is Added
+2025-12-28 12:19:01 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 12:19:01 INFO  Log:11 - On Overview Page
+2025-12-28 12:19:01 INFO  Log:11 - Finished adding Details
+2025-12-28 12:19:01 INFO  Log:11 - Testcase successful
+2025-12-28 12:19:04 INFO  Log:11 - Launching Application
+2025-12-28 12:19:04 INFO  Log:11 - Entered Details
+2025-12-28 12:19:09 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 12:19:09 INFO  Log:11 - Added product to cart
+2025-12-28 12:19:09 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 12:19:09 INFO  Log:11 - On Cart Page
+2025-12-28 12:19:09 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 12:19:09 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 12:19:09 INFO  Log:11 - Information is Added
+2025-12-28 12:19:09 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 12:19:09 INFO  Log:11 - On Overview Page
+2025-12-28 12:19:10 INFO  Log:11 - Finished adding Details
+2025-12-28 12:19:10 INFO  Log:11 - Testcase successful
+2025-12-28 23:39:02 INFO  Log:11 - Launching Application
+2025-12-28 23:39:03 INFO  Log:11 - Entered Details
+2025-12-28 23:39:08 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:39:08 INFO  Log:11 - Added product to cart
+2025-12-28 23:39:08 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:39:08 INFO  Log:11 - On Cart Page
+2025-12-28 23:39:08 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:39:08 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:39:08 INFO  Log:11 - Information is Added
+2025-12-28 23:39:08 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:39:08 INFO  Log:11 - On Overview Page
+2025-12-28 23:39:08 INFO  Log:11 - Finished adding Details
+2025-12-28 23:39:08 INFO  Log:11 - Testcase successful
+2025-12-28 23:39:11 INFO  Log:11 - Launching Application
+2025-12-28 23:39:12 INFO  Log:11 - Entered Details
+2025-12-28 23:39:17 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:39:17 INFO  Log:11 - Added product to cart
+2025-12-28 23:39:17 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:39:17 INFO  Log:11 - On Cart Page
+2025-12-28 23:39:17 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:39:17 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:39:17 INFO  Log:11 - Information is Added
+2025-12-28 23:39:17 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:39:17 INFO  Log:11 - On Overview Page
+2025-12-28 23:39:18 INFO  Log:11 - Finished adding Details
+2025-12-28 23:39:18 INFO  Log:11 - Testcase successful
+2025-12-28 23:39:30 INFO  Log:11 - Launching Application
+2025-12-28 23:39:30 INFO  Log:11 - Entered Details
+2025-12-28 23:39:35 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:39:35 INFO  Log:11 - Added product to cart
+2025-12-28 23:39:35 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:39:35 INFO  Log:11 - On Cart Page
+2025-12-28 23:39:35 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:39:35 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:39:36 INFO  Log:11 - Information is Added
+2025-12-28 23:39:36 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:39:36 INFO  Log:11 - On Overview Page
+2025-12-28 23:39:36 INFO  Log:11 - Finished adding Details
+2025-12-28 23:39:36 INFO  Log:11 - Testcase successful
+2025-12-28 23:39:39 INFO  Log:11 - Launching Application
+2025-12-28 23:39:39 INFO  Log:11 - Entered Details
+2025-12-28 23:39:44 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:39:44 INFO  Log:11 - Added product to cart
+2025-12-28 23:39:45 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:39:45 INFO  Log:11 - On Cart Page
+2025-12-28 23:39:45 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:39:45 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:39:45 INFO  Log:11 - Information is Added
+2025-12-28 23:39:45 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:39:45 INFO  Log:11 - On Overview Page
+2025-12-28 23:39:45 INFO  Log:11 - Finished adding Details
+2025-12-28 23:39:45 INFO  Log:11 - Testcase successful
+2025-12-28 23:53:12 INFO  Log:11 - Launching Application
+2025-12-28 23:53:13 INFO  Log:11 - Entered Details
+2025-12-28 23:53:18 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:53:18 INFO  Log:11 - Added product to cart
+2025-12-28 23:53:18 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:53:18 INFO  Log:11 - On Cart Page
+2025-12-28 23:53:18 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:53:18 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:53:18 INFO  Log:11 - Information is Added
+2025-12-28 23:53:18 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:53:18 INFO  Log:11 - On Overview Page
+2025-12-28 23:53:18 INFO  Log:11 - Finished adding Details
+2025-12-28 23:53:18 INFO  Log:11 - Testcase successful
+2025-12-28 23:53:22 INFO  Log:11 - Launching Application
+2025-12-28 23:53:22 INFO  Log:11 - Entered Details
+2025-12-28 23:53:27 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:53:27 INFO  Log:11 - Added product to cart
+2025-12-28 23:53:27 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:53:27 INFO  Log:11 - On Cart Page
+2025-12-28 23:53:27 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:53:27 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:53:27 INFO  Log:11 - Information is Added
+2025-12-28 23:53:27 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:53:27 INFO  Log:11 - On Overview Page
+2025-12-28 23:53:27 INFO  Log:11 - Finished adding Details
+2025-12-28 23:53:27 INFO  Log:11 - Testcase successful
+2025-12-28 23:57:10 INFO  Log:11 - Launching Application
+2025-12-28 23:57:10 INFO  Log:11 - Entered Details
+2025-12-28 23:57:15 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:57:15 INFO  Log:11 - Added product to cart
+2025-12-28 23:57:16 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:57:16 INFO  Log:11 - On Cart Page
+2025-12-28 23:57:16 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:57:16 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:57:16 INFO  Log:11 - Information is Added
+2025-12-28 23:57:16 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:57:16 INFO  Log:11 - On Overview Page
+2025-12-28 23:57:16 INFO  Log:11 - Finished adding Details
+2025-12-28 23:57:16 INFO  Log:11 - Testcase successful
+2025-12-28 23:57:19 INFO  Log:11 - Launching Application
+2025-12-28 23:57:19 INFO  Log:11 - Entered Details
+2025-12-28 23:57:24 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:57:24 INFO  Log:11 - Added product to cart
+2025-12-28 23:57:25 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:57:25 INFO  Log:11 - On Cart Page
+2025-12-28 23:57:25 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:57:25 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:57:25 INFO  Log:11 - Information is Added
+2025-12-28 23:57:25 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:57:25 INFO  Log:11 - On Overview Page
+2025-12-28 23:57:25 INFO  Log:11 - Finished adding Details
+2025-12-28 23:57:25 INFO  Log:11 - Testcase successful
+2025-12-28 23:59:13 INFO  Log:11 - Launching Application
+2025-12-28 23:59:13 INFO  Log:11 - Entered Details
+2025-12-28 23:59:18 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:59:18 INFO  Log:11 - Added product to cart
+2025-12-28 23:59:19 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:59:19 INFO  Log:11 - On Cart Page
+2025-12-28 23:59:19 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:59:19 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:59:19 INFO  Log:11 - Information is Added
+2025-12-28 23:59:19 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:59:19 INFO  Log:11 - On Overview Page
+2025-12-28 23:59:19 INFO  Log:11 - Finished adding Details
+2025-12-28 23:59:19 INFO  Log:11 - Testcase successful
+2025-12-28 23:59:23 INFO  Log:11 - Launching Application
+2025-12-28 23:59:23 INFO  Log:11 - Entered Details
+2025-12-28 23:59:28 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-28 23:59:28 INFO  Log:11 - Added product to cart
+2025-12-28 23:59:29 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-28 23:59:29 INFO  Log:11 - On Cart Page
+2025-12-28 23:59:29 INFO  Log:11 - Correct Products are added in the cart
+2025-12-28 23:59:29 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-28 23:59:29 INFO  Log:11 - Information is Added
+2025-12-28 23:59:29 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-28 23:59:29 INFO  Log:11 - On Overview Page
+2025-12-28 23:59:29 INFO  Log:11 - Finished adding Details
+2025-12-28 23:59:29 INFO  Log:11 - Testcase successful
+2025-12-29 00:06:44 INFO  Log:11 - Launching Application
+2025-12-29 00:06:44 INFO  Log:11 - Entered Details
+2025-12-29 00:06:49 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 00:06:49 INFO  Log:11 - Added product to cart
+2025-12-29 00:06:49 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 00:06:49 INFO  Log:11 - On Cart Page
+2025-12-29 00:06:49 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 00:06:49 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 00:06:50 INFO  Log:11 - Information is Added
+2025-12-29 00:06:50 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 00:06:50 INFO  Log:11 - On Overview Page
+2025-12-29 00:06:50 INFO  Log:11 - Finished adding Details
+2025-12-29 00:06:50 INFO  Log:11 - Testcase successful
+2025-12-29 00:06:53 INFO  Log:11 - Launching Application
+2025-12-29 00:06:53 INFO  Log:11 - Entered Details
+2025-12-29 00:06:58 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 00:06:58 INFO  Log:11 - Added product to cart
+2025-12-29 00:06:59 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 00:06:59 INFO  Log:11 - On Cart Page
+2025-12-29 00:06:59 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 00:06:59 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 00:06:59 INFO  Log:11 - Information is Added
+2025-12-29 00:06:59 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 00:06:59 INFO  Log:11 - On Overview Page
+2025-12-29 00:06:59 INFO  Log:11 - Finished adding Details
+2025-12-29 00:06:59 INFO  Log:11 - Testcase successful
+2025-12-29 00:09:18 INFO  Log:11 - Launching Application
+2025-12-29 00:09:18 INFO  Log:11 - Entered Details
+2025-12-29 00:09:23 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 00:09:23 INFO  Log:11 - Added product to cart
+2025-12-29 00:09:24 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 00:09:24 INFO  Log:11 - On Cart Page
+2025-12-29 00:09:24 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 00:09:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 00:09:24 INFO  Log:11 - Information is Added
+2025-12-29 00:09:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 00:09:24 INFO  Log:11 - On Overview Page
+2025-12-29 00:09:24 INFO  Log:11 - Finished adding Details
+2025-12-29 00:09:25 INFO  Log:11 - Testcase successful
+2025-12-29 00:09:28 INFO  Log:11 - Launching Application
+2025-12-29 00:09:28 INFO  Log:11 - Entered Details
+2025-12-29 00:09:33 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 00:09:33 INFO  Log:11 - Added product to cart
+2025-12-29 00:09:34 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 00:09:34 INFO  Log:11 - On Cart Page
+2025-12-29 00:09:34 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 00:09:34 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 00:09:34 INFO  Log:11 - Information is Added
+2025-12-29 00:09:34 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 00:09:34 INFO  Log:11 - On Overview Page
+2025-12-29 00:09:35 INFO  Log:11 - Finished adding Details
+2025-12-29 00:09:35 INFO  Log:11 - Testcase successful
+2025-12-29 08:52:17 INFO  Log:11 - Launching Application
+2025-12-29 08:52:17 INFO  Log:11 - Entered Details
+2025-12-29 08:52:22 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:52:22 INFO  Log:11 - Added product to cart
+2025-12-29 08:52:23 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:52:23 INFO  Log:11 - On Cart Page
+2025-12-29 08:52:23 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:52:23 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:52:23 INFO  Log:11 - Information is Added
+2025-12-29 08:52:23 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:52:23 INFO  Log:11 - On Overview Page
+2025-12-29 08:52:23 INFO  Log:11 - Finished adding Details
+2025-12-29 08:52:23 INFO  Log:11 - Testcase successful
+2025-12-29 08:52:26 INFO  Log:11 - Launching Application
+2025-12-29 08:52:26 INFO  Log:11 - Entered Details
+2025-12-29 08:52:31 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:52:32 INFO  Log:11 - Added product to cart
+2025-12-29 08:52:32 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:52:32 INFO  Log:11 - On Cart Page
+2025-12-29 08:52:32 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:52:32 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:52:32 INFO  Log:11 - Information is Added
+2025-12-29 08:52:32 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:52:32 INFO  Log:11 - On Overview Page
+2025-12-29 08:52:32 INFO  Log:11 - Finished adding Details
+2025-12-29 08:52:32 INFO  Log:11 - Testcase successful
+2025-12-29 08:53:31 INFO  Log:11 - Launching Application
+2025-12-29 08:53:31 INFO  Log:11 - Entered Details
+2025-12-29 08:53:36 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:53:36 INFO  Log:11 - Added product to cart
+2025-12-29 08:53:37 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:53:37 INFO  Log:11 - On Cart Page
+2025-12-29 08:53:37 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:53:37 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:53:37 INFO  Log:11 - Information is Added
+2025-12-29 08:53:37 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:53:37 INFO  Log:11 - On Overview Page
+2025-12-29 08:53:37 INFO  Log:11 - Finished adding Details
+2025-12-29 08:53:37 INFO  Log:11 - Testcase successful
+2025-12-29 08:53:40 INFO  Log:11 - Launching Application
+2025-12-29 08:53:40 INFO  Log:11 - Entered Details
+2025-12-29 08:53:45 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:53:45 INFO  Log:11 - Added product to cart
+2025-12-29 08:53:45 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:53:45 INFO  Log:11 - On Cart Page
+2025-12-29 08:53:45 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:53:46 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:53:46 INFO  Log:11 - Information is Added
+2025-12-29 08:53:46 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:53:46 INFO  Log:11 - On Overview Page
+2025-12-29 08:53:46 INFO  Log:11 - Finished adding Details
+2025-12-29 08:53:46 INFO  Log:11 - Testcase successful
+2025-12-29 08:57:21 INFO  Log:11 - Launching Application
+2025-12-29 08:57:22 INFO  Log:11 - Entered Details
+2025-12-29 08:57:27 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:57:27 INFO  Log:11 - Added product to cart
+2025-12-29 08:57:27 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:57:27 INFO  Log:11 - On Cart Page
+2025-12-29 08:57:27 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:57:27 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:57:27 INFO  Log:11 - Information is Added
+2025-12-29 08:57:27 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:57:27 INFO  Log:11 - On Overview Page
+2025-12-29 08:57:27 INFO  Log:11 - Finished adding Details
+2025-12-29 08:57:27 INFO  Log:11 - Testcase successful
+2025-12-29 08:57:31 INFO  Log:11 - Launching Application
+2025-12-29 08:57:31 INFO  Log:11 - Entered Details
+2025-12-29 08:57:36 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 08:57:36 INFO  Log:11 - Added product to cart
+2025-12-29 08:57:36 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 08:57:36 INFO  Log:11 - On Cart Page
+2025-12-29 08:57:36 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 08:57:36 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 08:57:36 INFO  Log:11 - Information is Added
+2025-12-29 08:57:36 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 08:57:36 INFO  Log:11 - On Overview Page
+2025-12-29 08:57:37 INFO  Log:11 - Finished adding Details
+2025-12-29 08:57:37 INFO  Log:11 - Testcase successful
+2025-12-29 10:56:34 INFO  Log:11 - Launching Application
+2025-12-29 10:56:34 INFO  Log:11 - Entered Details
+2025-12-29 10:56:39 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 10:56:39 INFO  Log:11 - Added product to cart
+2025-12-29 10:56:40 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 10:56:40 INFO  Log:11 - On Cart Page
+2025-12-29 10:56:40 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 10:56:40 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 10:56:40 INFO  Log:11 - Information is Added
+2025-12-29 10:56:40 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 10:56:40 INFO  Log:11 - On Overview Page
+2025-12-29 10:56:41 INFO  Log:11 - Finished adding Details
+2025-12-29 10:56:41 INFO  Log:11 - Testcase successful
+2025-12-29 10:56:45 INFO  Log:11 - Launching Application
+2025-12-29 10:56:45 INFO  Log:11 - Entered Details
+2025-12-29 10:56:50 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 10:56:50 INFO  Log:11 - Added product to cart
+2025-12-29 10:56:50 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 10:56:50 INFO  Log:11 - On Cart Page
+2025-12-29 10:56:50 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 10:56:51 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 10:56:51 INFO  Log:11 - Information is Added
+2025-12-29 10:56:51 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 10:56:51 INFO  Log:11 - On Overview Page
+2025-12-29 10:56:51 INFO  Log:11 - Finished adding Details
+2025-12-29 10:56:51 INFO  Log:11 - Testcase successful
+2025-12-29 11:01:06 INFO  Log:11 - Launching Application
+2025-12-29 11:01:06 INFO  Log:11 - Entered Details
+2025-12-29 11:01:11 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:01:12 INFO  Log:11 - Added product to cart
+2025-12-29 11:01:12 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:01:12 INFO  Log:11 - On Cart Page
+2025-12-29 11:01:12 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:01:12 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:01:13 INFO  Log:11 - Information is Added
+2025-12-29 11:01:13 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:01:13 INFO  Log:11 - On Overview Page
+2025-12-29 11:01:13 INFO  Log:11 - Finished adding Details
+2025-12-29 11:01:13 INFO  Log:11 - Testcase successful
+2025-12-29 11:01:18 INFO  Log:11 - Launching Application
+2025-12-29 11:01:18 INFO  Log:11 - Entered Details
+2025-12-29 11:01:23 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:01:23 INFO  Log:11 - Added product to cart
+2025-12-29 11:01:23 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:01:23 INFO  Log:11 - On Cart Page
+2025-12-29 11:01:23 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:01:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:01:24 INFO  Log:11 - Information is Added
+2025-12-29 11:01:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:01:24 INFO  Log:11 - On Overview Page
+2025-12-29 11:01:24 INFO  Log:11 - Finished adding Details
+2025-12-29 11:01:24 INFO  Log:11 - Testcase successful
+2025-12-29 11:04:18 INFO  Log:11 - Launching Application
+2025-12-29 11:04:19 INFO  Log:11 - Entered Details
+2025-12-29 11:04:24 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:04:24 INFO  Log:11 - Added product to cart
+2025-12-29 11:04:24 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:04:24 INFO  Log:11 - On Cart Page
+2025-12-29 11:04:24 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:04:25 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:04:25 INFO  Log:11 - Information is Added
+2025-12-29 11:04:25 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:04:25 INFO  Log:11 - On Overview Page
+2025-12-29 11:04:25 INFO  Log:11 - Finished adding Details
+2025-12-29 11:04:25 INFO  Log:11 - Testcase successful
+2025-12-29 11:04:29 INFO  Log:11 - Launching Application
+2025-12-29 11:04:29 INFO  Log:11 - Entered Details
+2025-12-29 11:04:35 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:04:35 INFO  Log:11 - Added product to cart
+2025-12-29 11:04:35 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:04:35 INFO  Log:11 - On Cart Page
+2025-12-29 11:04:35 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:04:35 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:04:36 INFO  Log:11 - Information is Added
+2025-12-29 11:04:36 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:04:36 INFO  Log:11 - On Overview Page
+2025-12-29 11:04:36 INFO  Log:11 - Finished adding Details
+2025-12-29 11:04:36 INFO  Log:11 - Testcase successful
+2025-12-29 11:12:04 INFO  Log:11 - Launching Application
+2025-12-29 11:12:04 INFO  Log:11 - Entered Details
+2025-12-29 11:12:09 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:12:09 INFO  Log:11 - Added product to cart
+2025-12-29 11:12:10 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:12:10 INFO  Log:11 - On Cart Page
+2025-12-29 11:12:10 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:12:10 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:12:10 INFO  Log:11 - Information is Added
+2025-12-29 11:12:10 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:12:10 INFO  Log:11 - On Overview Page
+2025-12-29 11:12:11 INFO  Log:11 - Finished adding Details
+2025-12-29 11:12:11 INFO  Log:11 - Testcase successful
+2025-12-29 11:12:15 INFO  Log:11 - Launching Application
+2025-12-29 11:12:15 INFO  Log:11 - Entered Details
+2025-12-29 11:12:20 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:12:20 INFO  Log:11 - Added product to cart
+2025-12-29 11:12:20 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:12:20 INFO  Log:11 - On Cart Page
+2025-12-29 11:12:20 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:12:21 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:12:21 INFO  Log:11 - Information is Added
+2025-12-29 11:12:21 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:12:21 INFO  Log:11 - On Overview Page
+2025-12-29 11:12:21 INFO  Log:11 - Finished adding Details
+2025-12-29 11:12:21 INFO  Log:11 - Testcase successful
+2025-12-29 11:13:13 INFO  Log:11 - Launching Application
+2025-12-29 11:13:13 INFO  Log:11 - Entered Details
+2025-12-29 11:13:18 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:13:19 INFO  Log:11 - Added product to cart
+2025-12-29 11:13:19 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:13:19 INFO  Log:11 - On Cart Page
+2025-12-29 11:13:19 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:13:19 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:13:20 INFO  Log:11 - Information is Added
+2025-12-29 11:13:20 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:13:20 INFO  Log:11 - On Overview Page
+2025-12-29 11:13:20 INFO  Log:11 - Finished adding Details
+2025-12-29 11:13:20 INFO  Log:11 - Testcase successful
+2025-12-29 11:13:24 INFO  Log:11 - Launching Application
+2025-12-29 11:13:24 INFO  Log:11 - Entered Details
+2025-12-29 11:13:29 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:13:29 INFO  Log:11 - Added product to cart
+2025-12-29 11:13:29 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:13:29 INFO  Log:11 - On Cart Page
+2025-12-29 11:13:29 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:13:30 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:13:30 INFO  Log:11 - Information is Added
+2025-12-29 11:13:30 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:13:30 INFO  Log:11 - On Overview Page
+2025-12-29 11:13:30 INFO  Log:11 - Finished adding Details
+2025-12-29 11:13:30 INFO  Log:11 - Testcase successful
+2025-12-29 11:18:07 INFO  Log:11 - Launching Application
+2025-12-29 11:18:08 INFO  Log:11 - Entered Details
+2025-12-29 11:18:13 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:18:13 INFO  Log:11 - Added product to cart
+2025-12-29 11:18:13 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:18:13 INFO  Log:11 - On Cart Page
+2025-12-29 11:18:13 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:18:13 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:18:14 INFO  Log:11 - Information is Added
+2025-12-29 11:18:14 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:18:14 INFO  Log:11 - On Overview Page
+2025-12-29 11:18:14 INFO  Log:11 - Finished adding Details
+2025-12-29 11:18:14 INFO  Log:11 - Testcase successful
+2025-12-29 11:18:18 INFO  Log:11 - Launching Application
+2025-12-29 11:18:18 INFO  Log:11 - Entered Details
+2025-12-29 11:18:23 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:18:23 INFO  Log:11 - Added product to cart
+2025-12-29 11:18:24 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:18:24 INFO  Log:11 - On Cart Page
+2025-12-29 11:18:24 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:18:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:18:24 INFO  Log:11 - Information is Added
+2025-12-29 11:18:24 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:18:24 INFO  Log:11 - On Overview Page
+2025-12-29 11:18:24 INFO  Log:11 - Finished adding Details
+2025-12-29 11:18:24 INFO  Log:11 - Testcase successful
+2025-12-29 11:28:50 INFO  Log:11 - Launching Application
+2025-12-29 11:28:50 INFO  Log:11 - Entered Details
+2025-12-29 11:28:55 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:28:55 INFO  Log:11 - Added product to cart
+2025-12-29 11:28:56 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:28:56 INFO  Log:11 - On Cart Page
+2025-12-29 11:28:56 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:28:56 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:28:56 INFO  Log:11 - Information is Added
+2025-12-29 11:28:56 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:28:56 INFO  Log:11 - On Overview Page
+2025-12-29 11:28:57 INFO  Log:11 - Finished adding Details
+2025-12-29 11:28:57 INFO  Log:11 - Testcase successful
+2025-12-29 11:28:59 INFO  Log:11 - Launching Application
+2025-12-29 11:29:05 INFO  Log:11 - Entered Details
+2025-12-29 11:29:10 INFO  Log:11 - https://www.saucedemo.com/inventory-item.html?id=5
+2025-12-29 11:29:10 INFO  Log:11 - Added product to cart
+2025-12-29 11:29:10 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:29:10 INFO  Log:11 - On Cart Page
+2025-12-29 11:29:10 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:29:10 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:29:11 INFO  Log:11 - Information is Added
+2025-12-29 11:29:11 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:29:11 INFO  Log:11 - On Overview Page
+2025-12-29 11:29:11 INFO  Log:11 - Finished adding Details
+2025-12-29 11:29:11 INFO  Log:11 - Testcase successful
+2025-12-29 11:35:48 INFO  Log:11 - Launching Application
+2025-12-29 11:35:48 INFO  Log:11 - Entered Details
+2025-12-29 11:35:54 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:35:54 INFO  Log:11 - Added product to cart
+2025-12-29 11:35:54 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:35:54 INFO  Log:11 - On Cart Page
+2025-12-29 11:35:54 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:35:55 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:35:55 INFO  Log:11 - Information is Added
+2025-12-29 11:35:55 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:35:55 INFO  Log:11 - On Overview Page
+2025-12-29 11:35:56 INFO  Log:11 - Finished adding Details
+2025-12-29 11:35:56 INFO  Log:11 - Testcase successful
+2025-12-29 11:36:00 INFO  Log:11 - Launching Application
+2025-12-29 11:36:06 INFO  Log:11 - Entered Details
+2025-12-29 11:36:11 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:36:11 INFO  Log:11 - Added product to cart
+2025-12-29 11:36:11 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:36:11 INFO  Log:11 - On Cart Page
+2025-12-29 11:36:11 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:36:12 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:36:12 INFO  Log:11 - Information is Added
+2025-12-29 11:36:12 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:36:12 INFO  Log:11 - On Overview Page
+2025-12-29 11:36:12 INFO  Log:11 - Finished adding Details
+2025-12-29 11:36:13 INFO  Log:11 - Testcase successful
+2025-12-29 11:41:26 INFO  Log:11 - Launching Application
+2025-12-29 11:41:36 INFO  Log:11 - Launching Application
+2025-12-29 11:46:53 INFO  Log:11 - Launching Application
+2025-12-29 11:46:53 INFO  Log:11 - Entered Details
+2025-12-29 11:46:58 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:46:58 INFO  Log:11 - Added product to cart
+2025-12-29 11:46:59 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:46:59 INFO  Log:11 - On Cart Page
+2025-12-29 11:46:59 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:46:59 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:46:59 INFO  Log:11 - Information is Added
+2025-12-29 11:46:59 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:46:59 INFO  Log:11 - On Overview Page
+2025-12-29 11:46:59 INFO  Log:11 - Finished adding Details
+2025-12-29 11:46:59 INFO  Log:11 - Testcase successful
+2025-12-29 11:47:04 INFO  Log:11 - Launching Application
+2025-12-29 11:47:10 INFO  Log:11 - Entered Details
+2025-12-29 11:47:15 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 11:47:15 INFO  Log:11 - Added product to cart
+2025-12-29 11:47:15 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 11:47:15 INFO  Log:11 - On Cart Page
+2025-12-29 11:47:15 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 11:47:15 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 11:47:16 INFO  Log:11 - Information is Added
+2025-12-29 11:47:16 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 11:47:16 INFO  Log:11 - On Overview Page
+2025-12-29 11:47:16 INFO  Log:11 - Finished adding Details
+2025-12-29 11:47:16 INFO  Log:11 - Testcase successful
+2025-12-29 14:04:54 INFO  Log:11 - Launching Application
+2025-12-29 14:04:54 INFO  Log:11 - Entered Details
+2025-12-29 14:05:00 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 14:05:00 INFO  Log:11 - Added product to cart
+2025-12-29 14:05:01 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 14:05:01 INFO  Log:11 - On Cart Page
+2025-12-29 14:05:01 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 14:05:01 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 14:05:02 INFO  Log:11 - Information is Added
+2025-12-29 14:05:02 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 14:05:02 INFO  Log:11 - On Overview Page
+2025-12-29 14:05:02 INFO  Log:11 - Finished adding Details
+2025-12-29 14:05:02 INFO  Log:11 - Testcase successful
+2025-12-29 14:05:05 INFO  Log:11 - Launching Application
+2025-12-29 14:05:10 INFO  Log:11 - Entered Details
+2025-12-29 14:05:15 INFO  Log:11 - https://www.saucedemo.com/inventory.html
+2025-12-29 14:05:15 INFO  Log:11 - Added product to cart
+2025-12-29 14:05:16 INFO  Log:11 - https://www.saucedemo.com/cart.html
+2025-12-29 14:05:16 INFO  Log:11 - On Cart Page
+2025-12-29 14:05:16 INFO  Log:11 - Correct Products are added in the cart
+2025-12-29 14:05:16 INFO  Log:11 - https://www.saucedemo.com/checkout-step-one.html
+2025-12-29 14:05:16 INFO  Log:11 - Information is Added
+2025-12-29 14:05:16 INFO  Log:11 - https://www.saucedemo.com/checkout-step-two.html
+2025-12-29 14:05:16 INFO  Log:11 - On Overview Page
+2025-12-29 14:05:16 INFO  Log:11 - Finished adding Details
+2025-12-29 14:05:16 INFO  Log:11 - Testcase successful
