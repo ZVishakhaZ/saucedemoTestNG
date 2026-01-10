@@ -13,11 +13,20 @@ public class ConfigReader {
 		
 		try {
 			// Load config.properties first
+			
 			FileInputStream fis = new FileInputStream("src/test/resources/config.properties" );
+			
 			prop.load(fis);
 			
+			String envFromJenkins = System.getProperty("env");
+			String env = (envFromJenkins!=null && !envFromJenkins.isBlank())?envFromJenkins:prop.getProperty("env");
+			
+			env= env.trim().toLowerCase();
+			
+			
+			
 			// Read env After Loading 
-			String env = prop.getProperty("env").trim().toLowerCase();
+			//String env = prop.getProperty("env").trim().toLowerCase();
 			
 			// Load env specific file
 			FileInputStream envfis = new FileInputStream("src/test/resources/" + env + ".properties" );
