@@ -18,7 +18,7 @@ import utils.ScreenshotUtils;
 
 public class PurchaseFlowTest extends BaseTest {
 
-	// Page Objects
+	// Page Objects // Changed
 	LoginPage loginPage;
 	InventoryPage inventoryPage;
 	CartPage cartPage;
